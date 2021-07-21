@@ -33,7 +33,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 START_MSG = """
 **Hi, I'm Media Search Bot For 𝗠𝗢𝗗𝗭𝗜𝗟𝗟𝗔 𝗖𝗛𝗔𝗡𝗡𝗘𝗟**
 
-Here You Can Search For Premium/Modded Apk Files In Inline Mode. Just Press The Following Buttons & Start Searching.
+Here You Can Search For Premium/Modded/Cracked Apk Files In Inline Mode. Just Press The Following Buttons & Start Searching.
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
